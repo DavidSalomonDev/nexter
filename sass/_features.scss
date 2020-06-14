@@ -27,7 +27,7 @@
         height: 4.5rem;
         //Extending the icon to the bottom
         grid-row: 1 / span 2;
-        transform: translate(-1rem);
+        transform: translateY(-1rem);
     }
 
     &__text {
